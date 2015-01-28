@@ -4,9 +4,6 @@ import wordseeker.gui.MainWindow;
 
 import javax.swing.*;
 
-/**
- * @author rad1kal
- */
 class Main {
 
     public static void main(String[] args) {
